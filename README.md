@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicandam
+- 👋 Hi, I’m vicandam
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning web development specifically in laravel a php framework
 - 💞️ I’m looking to collaborate on any web development build in laravel
